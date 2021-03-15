@@ -22,3 +22,12 @@ at
 height: 35px;
 
 }
+
+hr{
+	
+		 border: none;
+		 border-top-color: white;
+		 border-top-style: dotted;
+		 border-top-width: 6px;
+		
+}
